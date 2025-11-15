@@ -21,7 +21,7 @@ Whether you're a developer, a voice creator, or just curious, here's where you'l
 
 * **[AlizarinEngine Repository](https://github.com/ALIZARINENGINE/AlizarinEngine)**: This is the main project. Dive into the code, check out the demos, and see how it works.
 * **[USAGE_GUIDE.md](https://github.com/ALIZARINENGINE/AlizarinEngine/blob/main/USAGE_GUIDE.md)**: **Please read this first!** It contains the full ethical terms of use, license, and usage rules.
-* **[MULTILINGUAL_RVC_HYBRID_GUIDE.md](https://github.com/ALIZARINENGINE/AlizarinEngine/blob/main/MULTILINGUAL_RVC_HYBRID_GUIDE.md): Learn how to use our RVC-hybrid workflow...
+* **[MULTILINGUAL_RVC_HYBRID_GUIDE.md](https://github.com/ALIZARINENGINE/AlizarinEngine/blob/main/MULTILINGUAL_RVC_HYBRID_GUIDE.md)**: Learn how to use our RVC-hybrid workflow...
 
 ## 💖 Character Rights & Special Requests
 
