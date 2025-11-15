@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/150031853?s=200&v=4" alt="ALIZARIN ENGINE Logo" width="150">
   <h1 align="center">Welcome to the ALIZARIN ENGINE Organization</h1>
 </p>
 
