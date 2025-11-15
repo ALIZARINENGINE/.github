@@ -27,7 +27,7 @@ Whether you're a developer, a voice creator, or just curious, here's where you'l
 
 This section covers the usage rights for our official characters (like the Alizarin Engine Voice) and their associated IP. While our engine is open-source, our official characters are our brand, and their use is more strictly controlled.
 
-**Non-commercial artistic fan works are encouraged!** For all other uses, please see the **"Special Requests" process (detailed in our `USAGE_GUIDE.md`)** if you wish to:
+**Non-commercial fan art and fan fiction are encouraged!** For all other uses, please see the **"Special Requests" process (detailed in our [USAGE_GUIDE.md](https://github.com/ALIZARINENGINE/AlizarinEngine/blob/main/USAGE_GUIDE.md))** if you wish to:
 
 * Request permission to use an official character's name for song credits (e.g., "Song featuring ALIZARIN").
 * Inquire about a commercial license for using the character's name or artwork (e.g., on merchandise or album covers).
